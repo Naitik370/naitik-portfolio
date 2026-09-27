@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({
 const title = 'Naitik Jain | AI/ML Engineer';
 const description =
   'Explore my network of AI projects, technical skills, research, and achievements. Building healthcare AI and financial intelligence in Mumbai.';
-const origin = 'https://naitik-jain-portfolio.bold-bead-2654.chatgpt.site';
+const origin = 'https://naitik-jain-portfolio.naitik370.chatgpt.site';
 export const metadata: Metadata = {
   metadataBase: new URL(origin),
   title,
